@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/hansonAgrochemicalPreview/static/css/main.7fd56b2a.css",
+    "main.js": "/hansonAgrochemicalPreview/static/js/main.8f29f308.js",
+    "static/js/787.c6834da6.chunk.js": "/hansonAgrochemicalPreview/static/js/787.c6834da6.chunk.js",
+    "static/media/colza.jpg": "/hansonAgrochemicalPreview/static/media/colza.70a81295070cc0fc713c.jpg",
+    "index.html": "/hansonAgrochemicalPreview/index.html",
+    "static/media/logo.svg": "/hansonAgrochemicalPreview/static/media/logo.6c4bc74d78bd785ef45efcb99a53d755.svg",
+    "main.7fd56b2a.css.map": "/hansonAgrochemicalPreview/static/css/main.7fd56b2a.css.map",
+    "main.8f29f308.js.map": "/hansonAgrochemicalPreview/static/js/main.8f29f308.js.map",
+    "787.c6834da6.chunk.js.map": "/hansonAgrochemicalPreview/static/js/787.c6834da6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fd56b2a.css",
+    "static/js/main.8f29f308.js"
+  ]
+}
