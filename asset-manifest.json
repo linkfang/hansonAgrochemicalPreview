@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/hansonAgrochemicalPreview/static/css/main.dd905601.css",
-    "main.js": "/hansonAgrochemicalPreview/static/js/main.d16cccad.js",
+    "main.css": "/hansonAgrochemicalPreview/static/css/main.7df7573b.css",
+    "main.js": "/hansonAgrochemicalPreview/static/js/main.cd50a41f.js",
     "static/js/787.c6834da6.chunk.js": "/hansonAgrochemicalPreview/static/js/787.c6834da6.chunk.js",
     "static/media/colza.jpg": "/hansonAgrochemicalPreview/static/media/colza.70a81295070cc0fc713c.jpg",
     "index.html": "/hansonAgrochemicalPreview/index.html",
     "static/media/vision.svg": "/hansonAgrochemicalPreview/static/media/vision.072d9be30c8722ff1b23016c55eba9ee.svg",
     "static/media/me-list.svg": "/hansonAgrochemicalPreview/static/media/me-list.b7df4d8a05360490cf82672c081cdad9.svg",
-    "static/media/logo.svg": "/hansonAgrochemicalPreview/static/media/logo.6c4bc74d78bd785ef45efcb99a53d755.svg",
+    "static/media/logo.svg": "/hansonAgrochemicalPreview/static/media/logo.b33c262a3a7e225ca9c9dac17f1f4b84.svg",
     "static/media/about.svg": "/hansonAgrochemicalPreview/static/media/about.ff4231d6834b17184bd6d6a4511503b8.svg",
     "static/media/bullseye.svg": "/hansonAgrochemicalPreview/static/media/bullseye.fdecfd5b9e7a313a27a55a4adddea749.svg",
-    "main.dd905601.css.map": "/hansonAgrochemicalPreview/static/css/main.dd905601.css.map",
-    "main.d16cccad.js.map": "/hansonAgrochemicalPreview/static/js/main.d16cccad.js.map",
+    "main.7df7573b.css.map": "/hansonAgrochemicalPreview/static/css/main.7df7573b.css.map",
+    "main.cd50a41f.js.map": "/hansonAgrochemicalPreview/static/js/main.cd50a41f.js.map",
     "787.c6834da6.chunk.js.map": "/hansonAgrochemicalPreview/static/js/787.c6834da6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dd905601.css",
-    "static/js/main.d16cccad.js"
+    "static/css/main.7df7573b.css",
+    "static/js/main.cd50a41f.js"
   ]
 }
