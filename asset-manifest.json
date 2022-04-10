@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hansonAgrochemicalPreview/static/css/main.8279d1f4.css",
-    "main.js": "/hansonAgrochemicalPreview/static/js/main.0d45ea37.js",
+    "main.js": "/hansonAgrochemicalPreview/static/js/main.812fb529.js",
     "static/js/787.c6834da6.chunk.js": "/hansonAgrochemicalPreview/static/js/787.c6834da6.chunk.js",
     "static/media/freedom-glyphosate.pdf": "/hansonAgrochemicalPreview/static/media/freedom-glyphosate.87d10199438159abab39.pdf",
     "static/media/brassinolide.pdf": "/hansonAgrochemicalPreview/static/media/brassinolide.f4f22dbd96e0fad54258.pdf",
@@ -16,11 +16,11 @@
     "static/media/about.svg": "/hansonAgrochemicalPreview/static/media/about.ff4231d6834b17184bd6d6a4511503b8.svg",
     "static/media/bullseye.svg": "/hansonAgrochemicalPreview/static/media/bullseye.fdecfd5b9e7a313a27a55a4adddea749.svg",
     "main.8279d1f4.css.map": "/hansonAgrochemicalPreview/static/css/main.8279d1f4.css.map",
-    "main.0d45ea37.js.map": "/hansonAgrochemicalPreview/static/js/main.0d45ea37.js.map",
+    "main.812fb529.js.map": "/hansonAgrochemicalPreview/static/js/main.812fb529.js.map",
     "787.c6834da6.chunk.js.map": "/hansonAgrochemicalPreview/static/js/787.c6834da6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8279d1f4.css",
-    "static/js/main.0d45ea37.js"
+    "static/js/main.812fb529.js"
   ]
 }
