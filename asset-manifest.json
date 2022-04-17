@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/hansonAgrochemicalPreview/static/css/main.ec0bd2cb.css",
-    "main.js": "/hansonAgrochemicalPreview/static/js/main.2db552b5.js",
+    "main.css": "/hansonAgrochemicalPreview/static/css/main.55acc07e.css",
+    "main.js": "/hansonAgrochemicalPreview/static/js/main.7e9eea91.js",
     "static/js/787.162a034d.chunk.js": "/hansonAgrochemicalPreview/static/js/787.162a034d.chunk.js",
     "static/media/plant-video.mp4": "/hansonAgrochemicalPreview/static/media/plant-video.d10d807bebae5f5a0107.mp4",
     "static/media/pesticide-in-canada.mp4": "/hansonAgrochemicalPreview/static/media/pesticide-in-canada.a7be050a3cb15bc8c5f0.mp4",
@@ -28,19 +28,22 @@
     "static/media/colza.jpg": "/hansonAgrochemicalPreview/static/media/colza.70a81295070cc0fc713c.jpg",
     "static/media/patented-agrochemicals-invented-by-chinese-researchers.pdf": "/hansonAgrochemicalPreview/static/media/patented-agrochemicals-invented-by-chinese-researchers.ab11c8df13031bab6e7d.pdf",
     "static/media/plants.svg": "/hansonAgrochemicalPreview/static/media/plants.b663074e99cd872c10e6.svg",
+    "static/media/resources.svg": "/hansonAgrochemicalPreview/static/media/resources.f75ad915ba93ce1b19dc.svg",
+    "static/media/contact-us.svg": "/hansonAgrochemicalPreview/static/media/contact-us.b9dc7ae99bf7b3ec053c.svg",
     "static/media/filetype-html.svg": "/hansonAgrochemicalPreview/static/media/filetype-html.7a3a6a2c185e72cd8bddee4f0b8d714b.svg",
     "static/media/file-earmark-pdf.svg": "/hansonAgrochemicalPreview/static/media/file-earmark-pdf.48e65abdc0b2ca57c3fc847dc6f0cf3a.svg",
+    "static/media/wechat.svg": "/hansonAgrochemicalPreview/static/media/wechat.e10605392c67d0c88f1a2c072f960ce2.svg",
     "index.html": "/hansonAgrochemicalPreview/index.html",
     "static/media/vision.svg": "/hansonAgrochemicalPreview/static/media/vision.072d9be30c8722ff1b23016c55eba9ee.svg",
     "static/media/logo.svg": "/hansonAgrochemicalPreview/static/media/logo.b33c262a3a7e225ca9c9dac17f1f4b84.svg",
     "static/media/about.svg": "/hansonAgrochemicalPreview/static/media/about.ff4231d6834b17184bd6d6a4511503b8.svg",
     "static/media/bullseye.svg": "/hansonAgrochemicalPreview/static/media/bullseye.fdecfd5b9e7a313a27a55a4adddea749.svg",
-    "main.ec0bd2cb.css.map": "/hansonAgrochemicalPreview/static/css/main.ec0bd2cb.css.map",
-    "main.2db552b5.js.map": "/hansonAgrochemicalPreview/static/js/main.2db552b5.js.map",
+    "main.55acc07e.css.map": "/hansonAgrochemicalPreview/static/css/main.55acc07e.css.map",
+    "main.7e9eea91.js.map": "/hansonAgrochemicalPreview/static/js/main.7e9eea91.js.map",
     "787.162a034d.chunk.js.map": "/hansonAgrochemicalPreview/static/js/787.162a034d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ec0bd2cb.css",
-    "static/js/main.2db552b5.js"
+    "static/css/main.55acc07e.css",
+    "static/js/main.7e9eea91.js"
   ]
 }
