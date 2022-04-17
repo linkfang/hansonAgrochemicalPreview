@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/hansonAgrochemicalPreview/static/css/main.810288d9.css",
-    "main.js": "/hansonAgrochemicalPreview/static/js/main.0b5b6aa2.js",
+    "main.css": "/hansonAgrochemicalPreview/static/css/main.eeed8b46.css",
+    "main.js": "/hansonAgrochemicalPreview/static/js/main.2134651b.js",
     "static/js/787.c6834da6.chunk.js": "/hansonAgrochemicalPreview/static/js/787.c6834da6.chunk.js",
     "static/media/plant-video.mp4": "/hansonAgrochemicalPreview/static/media/plant-video.d10d807bebae5f5a0107.mp4",
     "static/media/pesticide-in-canada.mp4": "/hansonAgrochemicalPreview/static/media/pesticide-in-canada.a7be050a3cb15bc8c5f0.mp4",
@@ -14,9 +14,15 @@
     "static/media/freedom-glyphosate.pdf": "/hansonAgrochemicalPreview/static/media/freedom-glyphosate.87d10199438159abab39.pdf",
     "static/media/brassinolide.pdf": "/hansonAgrochemicalPreview/static/media/brassinolide.f4f22dbd96e0fad54258.pdf",
     "static/media/nasa36.pdf": "/hansonAgrochemicalPreview/static/media/nasa36.24cc9ca83c436fa8f482.pdf",
+    "static/media/chengdu-new-sun-pursues-green-agriculture-in-china.pdf": "/hansonAgrochemicalPreview/static/media/chengdu-new-sun-pursues-green-agriculture-in-china.b1b9b7bedf81db3da1a0.pdf",
+    "static/media/china-establishes-new-pesticide-regulations.pdf": "/hansonAgrochemicalPreview/static/media/china-establishes-new-pesticide-regulations.a8f5d112efca5a1aaa08.pdf",
+    "static/media/interview-chinese-industry-confident-about-2017.pdf": "/hansonAgrochemicalPreview/static/media/interview-chinese-industry-confident-about-2017.343a738c59f34cf83fb0.pdf",
+    "static/media/a-chinese-prespective-on-agchem-r&d.pdf": "/hansonAgrochemicalPreview/static/media/a-chinese-prespective-on-agchem-r&d.59a22a337cfe2c9a8538.pdf",
     "static/media/foison-glufosinate-ammonium.pdf": "/hansonAgrochemicalPreview/static/media/foison-glufosinate-ammonium.726ae3a517acd876ab4d.pdf",
+    "static/media/interview-wynca-consolidation-in-chinese-industry-will-reduce-glyphosate-price-wars.pdf": "/hansonAgrochemicalPreview/static/media/interview-wynca-consolidation-in-chinese-industry-will-reduce-glyphosate-price-wars.14ca095f46a627e88459.pdf",
     "static/media/lier-glufosinate-150-sn-english-label.pdf": "/hansonAgrochemicalPreview/static/media/lier-glufosinate-150-sn-english-label.7d82d3ad72637d43a1bb.pdf",
     "static/media/colza.jpg": "/hansonAgrochemicalPreview/static/media/colza.70a81295070cc0fc713c.jpg",
+    "static/media/patented-agrochemicals-invented-by-chinese-researchers.pdf": "/hansonAgrochemicalPreview/static/media/patented-agrochemicals-invented-by-chinese-researchers.ab11c8df13031bab6e7d.pdf",
     "static/media/plants.svg": "/hansonAgrochemicalPreview/static/media/plants.b663074e99cd872c10e6.svg",
     "static/media/file-earmark-pdf.svg": "/hansonAgrochemicalPreview/static/media/file-earmark-pdf.48e65abdc0b2ca57c3fc847dc6f0cf3a.svg",
     "index.html": "/hansonAgrochemicalPreview/index.html",
@@ -24,12 +30,12 @@
     "static/media/logo.svg": "/hansonAgrochemicalPreview/static/media/logo.b33c262a3a7e225ca9c9dac17f1f4b84.svg",
     "static/media/about.svg": "/hansonAgrochemicalPreview/static/media/about.ff4231d6834b17184bd6d6a4511503b8.svg",
     "static/media/bullseye.svg": "/hansonAgrochemicalPreview/static/media/bullseye.fdecfd5b9e7a313a27a55a4adddea749.svg",
-    "main.810288d9.css.map": "/hansonAgrochemicalPreview/static/css/main.810288d9.css.map",
-    "main.0b5b6aa2.js.map": "/hansonAgrochemicalPreview/static/js/main.0b5b6aa2.js.map",
+    "main.eeed8b46.css.map": "/hansonAgrochemicalPreview/static/css/main.eeed8b46.css.map",
+    "main.2134651b.js.map": "/hansonAgrochemicalPreview/static/js/main.2134651b.js.map",
     "787.c6834da6.chunk.js.map": "/hansonAgrochemicalPreview/static/js/787.c6834da6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.810288d9.css",
-    "static/js/main.0b5b6aa2.js"
+    "static/css/main.eeed8b46.css",
+    "static/js/main.2134651b.js"
   ]
 }
