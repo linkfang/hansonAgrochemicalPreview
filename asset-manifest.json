@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/hansonAgrochemicalPreview/static/css/main.ad6f60dd.css",
-    "main.js": "/hansonAgrochemicalPreview/static/js/main.3495735d.js",
+    "main.css": "/hansonAgrochemicalPreview/static/css/main.c0049d4b.css",
+    "main.js": "/hansonAgrochemicalPreview/static/js/main.a30a5282.js",
     "static/js/787.162a034d.chunk.js": "/hansonAgrochemicalPreview/static/js/787.162a034d.chunk.js",
     "static/media/plant-video.mp4": "/hansonAgrochemicalPreview/static/media/plant-video.d10d807bebae5f5a0107.mp4",
     "static/media/pesticide-in-canada.mp4": "/hansonAgrochemicalPreview/static/media/pesticide-in-canada.a7be050a3cb15bc8c5f0.mp4",
@@ -21,12 +21,16 @@
     "static/media/china-establishes-new-pesticide-regulations.pdf": "/hansonAgrochemicalPreview/static/media/china-establishes-new-pesticide-regulations.a8f5d112efca5a1aaa08.pdf",
     "static/media/interview-chinese-industry-confident-about-2017.pdf": "/hansonAgrochemicalPreview/static/media/interview-chinese-industry-confident-about-2017.343a738c59f34cf83fb0.pdf",
     "static/media/a-chinese-prespective-on-agchem-r&d.pdf": "/hansonAgrochemicalPreview/static/media/a-chinese-prespective-on-agchem-r&d.59a22a337cfe2c9a8538.pdf",
+    "static/media/resources.jpg": "/hansonAgrochemicalPreview/static/media/resources.636bc756e15f709708d3.jpg",
     "static/media/foison-glufosinate-ammonium.pdf": "/hansonAgrochemicalPreview/static/media/foison-glufosinate-ammonium.726ae3a517acd876ab4d.pdf",
     "static/media/interview-wynca-consolidation-in-chinese-industry-will-reduce-glyphosate-price-wars.pdf": "/hansonAgrochemicalPreview/static/media/interview-wynca-consolidation-in-chinese-industry-will-reduce-glyphosate-price-wars.14ca095f46a627e88459.pdf",
     "static/media/lier-glufosinate-150-sn-english-label.pdf": "/hansonAgrochemicalPreview/static/media/lier-glufosinate-150-sn-english-label.7d82d3ad72637d43a1bb.pdf",
     "static/media/herbicides-q&a.pdf": "/hansonAgrochemicalPreview/static/media/herbicides-q&a.3c31a76165dc1f8a8508.pdf",
-    "static/media/colza.jpg": "/hansonAgrochemicalPreview/static/media/colza.70a81295070cc0fc713c.jpg",
+    "static/media/pesticide.jpg": "/hansonAgrochemicalPreview/static/media/pesticide.30c24904b09a4966a8e7.jpg",
+    "static/media/contact.jpg": "/hansonAgrochemicalPreview/static/media/contact.c65bc49e47fcb8ef9507.jpg",
     "static/media/patented-agrochemicals-invented-by-chinese-researchers.pdf": "/hansonAgrochemicalPreview/static/media/patented-agrochemicals-invented-by-chinese-researchers.ab11c8df13031bab6e7d.pdf",
+    "static/media/home.jpg": "/hansonAgrochemicalPreview/static/media/home.ba96de4874fae41e20f2.jpg",
+    "static/media/pest-control.jpg": "/hansonAgrochemicalPreview/static/media/pest-control.e3ffc5c486896f6848ff.jpg",
     "static/media/plants.svg": "/hansonAgrochemicalPreview/static/media/plants.b663074e99cd872c10e6.svg",
     "static/media/resources.svg": "/hansonAgrochemicalPreview/static/media/resources.f75ad915ba93ce1b19dc.svg",
     "static/media/contact-us.svg": "/hansonAgrochemicalPreview/static/media/contact-us.6dced76ba075e210456ed848aae141be.svg",
@@ -38,12 +42,12 @@
     "static/media/logo.svg": "/hansonAgrochemicalPreview/static/media/logo.b33c262a3a7e225ca9c9dac17f1f4b84.svg",
     "static/media/about.svg": "/hansonAgrochemicalPreview/static/media/about.ff4231d6834b17184bd6d6a4511503b8.svg",
     "static/media/bullseye.svg": "/hansonAgrochemicalPreview/static/media/bullseye.fdecfd5b9e7a313a27a55a4adddea749.svg",
-    "main.ad6f60dd.css.map": "/hansonAgrochemicalPreview/static/css/main.ad6f60dd.css.map",
-    "main.3495735d.js.map": "/hansonAgrochemicalPreview/static/js/main.3495735d.js.map",
+    "main.c0049d4b.css.map": "/hansonAgrochemicalPreview/static/css/main.c0049d4b.css.map",
+    "main.a30a5282.js.map": "/hansonAgrochemicalPreview/static/js/main.a30a5282.js.map",
     "787.162a034d.chunk.js.map": "/hansonAgrochemicalPreview/static/js/787.162a034d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ad6f60dd.css",
-    "static/js/main.3495735d.js"
+    "static/css/main.c0049d4b.css",
+    "static/js/main.a30a5282.js"
   ]
 }
