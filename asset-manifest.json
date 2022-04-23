@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hansonAgrochemicalPreview/static/css/main.ad6f60dd.css",
-    "main.js": "/hansonAgrochemicalPreview/static/js/main.6e7c8988.js",
+    "main.js": "/hansonAgrochemicalPreview/static/js/main.3495735d.js",
     "static/js/787.162a034d.chunk.js": "/hansonAgrochemicalPreview/static/js/787.162a034d.chunk.js",
     "static/media/plant-video.mp4": "/hansonAgrochemicalPreview/static/media/plant-video.d10d807bebae5f5a0107.mp4",
     "static/media/pesticide-in-canada.mp4": "/hansonAgrochemicalPreview/static/media/pesticide-in-canada.a7be050a3cb15bc8c5f0.mp4",
@@ -39,11 +39,11 @@
     "static/media/about.svg": "/hansonAgrochemicalPreview/static/media/about.ff4231d6834b17184bd6d6a4511503b8.svg",
     "static/media/bullseye.svg": "/hansonAgrochemicalPreview/static/media/bullseye.fdecfd5b9e7a313a27a55a4adddea749.svg",
     "main.ad6f60dd.css.map": "/hansonAgrochemicalPreview/static/css/main.ad6f60dd.css.map",
-    "main.6e7c8988.js.map": "/hansonAgrochemicalPreview/static/js/main.6e7c8988.js.map",
+    "main.3495735d.js.map": "/hansonAgrochemicalPreview/static/js/main.3495735d.js.map",
     "787.162a034d.chunk.js.map": "/hansonAgrochemicalPreview/static/js/787.162a034d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ad6f60dd.css",
-    "static/js/main.6e7c8988.js"
+    "static/js/main.3495735d.js"
   ]
 }
